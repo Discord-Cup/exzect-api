@@ -1,12 +1,12 @@
 ## Getting started
 ```js
-const ExzectBots = require("@exzect/api")
+const ExzectBots = require("exzect-api")
 const api = new ExzectBots({ token: ""}) // create instance
 ```
 
 ## Example
 ```js
-const ExzectBots = require("@exzect/api")
+const ExzectBots = require("exzect-api")
 
 async function main() {
     const api = new ExzectBots({ token: "" })
