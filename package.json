@@ -1,0 +1,16 @@
+{
+  "name": "@exzect/api",
+  "version": "1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "author": "https://github.com/unpeekabl3",
+  "license": "ISC",
+  "devDependencies": {
+    "node-fetch": "^2.6.5",
+    "nodemon": "^2.0.12"
+  }
+}
